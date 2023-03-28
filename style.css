@@ -1,0 +1,12 @@
+body 
+{
+    background-color: antiquewhite;
+}
+#captured_image {
+    width: 350px;
+    height: 270px;
+}
+#result {
+    width: 350px;
+    height: 300px;
+}
